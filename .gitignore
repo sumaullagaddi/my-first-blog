@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+mydjango
+db.sqlite3
+/static
+.DS_Store
